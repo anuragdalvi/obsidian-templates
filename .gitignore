@@ -1,0 +1,16 @@
+# Obsidian workspace state (regenerated per machine)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Plugin caches and build artifacts
+.obsidian/plugins/*/node_modules/
+
+# Personal — track the folder but not its contents
+90_Personal/**
+!90_Personal/.gitkeep

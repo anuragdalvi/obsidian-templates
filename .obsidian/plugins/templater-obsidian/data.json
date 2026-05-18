@@ -1,0 +1,15 @@
+{
+  "template_folder": "90_Meta/Templates",
+  "auto_jump_to_cursor": true,
+  "use_system_commands": false,
+  "trigger_on_file_creation": true,
+  "enable_ribbon_icon": true,
+  "command_timeout": 5,
+  "templates_pairs": [],
+  "folder_templates": [
+    {"folder": "00_Inbox", "template": "90_Meta/Templates/Capture.md"},
+    {"folder": "01_Projects", "template": "90_Meta/Templates/Project-RFC.md"},
+    {"folder": "03_Resources", "template": "90_Meta/Templates/Learning.md"}
+  ],
+  "enable_system_commands": false
+}

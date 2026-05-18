@@ -1,0 +1,39 @@
+{
+  "ruleConfigs": {
+    "yaml-timestamp": {
+      "enabled": true,
+      "date-created": true,
+      "date-created-key": "created",
+      "date-modified": true,
+      "date-modified-key": "updated",
+      "format": "YYYY-MM-DD",
+      "convert-to-utc": false
+    },
+    "remove-trailing-whitespace": {
+      "enabled": true,
+      "twp-space-line-break": false
+    },
+    "format-tags-in-yaml": {
+      "enabled": true
+    },
+    "yaml-key-sort": {
+      "enabled": false
+    },
+    "remove-multiple-blank-lines": {
+      "enabled": true
+    },
+    "heading-blank-lines": {
+      "enabled": true,
+      "bottom": true,
+      "top": false,
+      "empty-line-after-yaml": true
+    }
+  },
+  "lintOnSave": true,
+  "displayChanged": true,
+  "foldersToIgnore": ["90_Personal"],
+  "filesToIgnore": [],
+  "afterSaveDelay": 500,
+  "logLevel": "ERROR",
+  "recordInputFiles": false
+}

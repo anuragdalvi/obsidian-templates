@@ -1,0 +1,20 @@
+{
+  "globalQuery": "",
+  "globalFilter": "",
+  "removeGlobalFilter": false,
+  "setDoneDate": true,
+  "autoSuggestInEditor": true,
+  "autoSuggestMinMatch": 0,
+  "autoSuggestMaxItems": 6,
+  "provideAccessKeys": true,
+  "useFilenameAsScheduledDate": false,
+  "filenameAsDateFolders": [],
+  "statusTypes": [],
+  "maxTasksListLength": 1000,
+  "urgencyUserDefinedTaskPriorityFactor": 9.0,
+  "urgencyScheduledAndStartedFactor": 9.0,
+  "urgencyHasDeadlineFactor": 12.0,
+  "urgencyHasDueDateFactor": 7.0,
+  "urgencyOverdueFactor": 12.0,
+  "urgencyInboxFactor": 6.0
+}

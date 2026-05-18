@@ -1,0 +1,32 @@
+{
+  "daily": {
+    "enabled": true,
+    "format": "YYYY-MM-DD",
+    "folder": "00_Inbox/Daily",
+    "template": "90_Meta/Templates/Daily-Note.md"
+  },
+  "weekly": {
+    "enabled": true,
+    "format": "YYYY-[W]ww",
+    "folder": "00_Inbox/Weekly",
+    "template": "90_Meta/Templates/Weekly-Review.md"
+  },
+  "monthly": {
+    "enabled": false,
+    "format": "YYYY-MM",
+    "folder": "",
+    "template": ""
+  },
+  "quarterly": {
+    "enabled": false,
+    "format": "YYYY-[Q]Q",
+    "folder": "",
+    "template": ""
+  },
+  "yearly": {
+    "enabled": false,
+    "format": "YYYY",
+    "folder": "",
+    "template": ""
+  }
+}

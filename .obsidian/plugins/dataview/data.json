@@ -1,0 +1,20 @@
+{
+  "enableDataviewJs": true,
+  "enableInlineDataview": true,
+  "enableInlineDataviewJs": true,
+  "prettyRenderInlineFields": true,
+  "prettyRenderInlineFieldsInLivePreview": true,
+  "taskCompletionTracking": true,
+  "taskCompletionUseEmojiShorthand": false,
+  "taskCompletionTextField": "completion",
+  "taskCompletionDateFormat": "YYYY-MM-DD",
+  "recursiveSubTaskCompletion": false,
+  "warnOnEmptyResult": true,
+  "refreshInterval": 2500,
+  "defaultDateFormat": "YYYY-MM-DD",
+  "defaultDateTimeFormat": "YYYY-MM-DD HH:mm",
+  "maxRecursiveRenderDepth": 4,
+  "tableGroupColumnName": "Group",
+  "tableIdColumnName": "File",
+  "showResultCount": true
+}
