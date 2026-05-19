@@ -30,7 +30,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## Action items
 
-- [ ] (owner) — due: 
+<!-- Format: - [ ] Task description #p0/#p1 📅 YYYY-MM-DD -->
+<!-- These tasks appear automatically in Task-Dashboard and TODO -->
+- [ ] (owner) — 
 
 ## Next meeting
 

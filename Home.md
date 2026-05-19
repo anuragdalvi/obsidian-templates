@@ -11,6 +11,22 @@ updated: 2026-05-18
 
 _The single entry point for this vault. Navigate everything from here._
 
+## 🔥 Priority tasks
+
+```tasks
+not done
+(tags include #p0) OR (tags include #p1)
+due before in 3 days
+path does not include 90_Meta
+sort by due
+sort by tag
+limit 10
+```
+
+→ [[TODO]] · [[Task-Dashboard]] · [[Tasks-Inbox]]
+
+---
+
 ## PARA Index
 
 | Folder | Purpose |
